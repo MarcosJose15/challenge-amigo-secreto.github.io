@@ -1,5 +1,7 @@
 # 🎁 Sorteador de Amigo Secreto
 
+# 🔗LINK DO PROJETO -> https://marcosjose15.github.io/challenge-amigo-secreto.github.io/
+
 Um aplicativo web simples e interativo para realizar sorteios de amigo secreto, desenvolvido com HTML, CSS e JavaScript puro.
 
 ![Banner Amigo Secreto](assets/amigo-secreto.png)
